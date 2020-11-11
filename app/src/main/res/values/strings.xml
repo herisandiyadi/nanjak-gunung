@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Nanjak Gunung</string>
+    <string name="gng_names">Nama Gunung</string>
+    <string name="gng_details">Detail</string>
+    <string name="gng_harga">Harga</string>
+    <string name="gng_jalur">Jalur</string>
+    <string name="nama">Heri Sandiyadi</string>
+    <string name="email">herisandiyadi@gmail.com</string>
+    <string name="telepon">081212968348</string>
+</resources>
